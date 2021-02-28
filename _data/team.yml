@@ -1,0 +1,58 @@
+- name: TA 1
+  roles: 
+    - Head TA
+  image: default.png
+
+- name: TA 2
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 3
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 4
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 5
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 6
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 7
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 8
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 9
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png
+
+- name: TA 10
+  roles:
+    - Role 1
+    - Role 2
+  image: default.png

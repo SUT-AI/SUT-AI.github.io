@@ -1,0 +1,44 @@
+
+
+.sharif {
+    margin: -20px 10px -17px 0;
+    height: 30px;
+}
+
+.lesson-description {
+    font-family: Raleway;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    color: #4abf9d;
+    font-size: 14px;
+}
+
+.reference-link {
+    color: #1d7bf3a6;
+}
+
+.extra-class {
+    font-size: inherit;
+    color: #9999ff;
+}
+
+.list {
+    font-size: inherit;
+    color: #fd3473;
+}
+
+.exercise {
+    font-size: inherit;
+    color: #fd7e14e3;
+}
+
+.zip-code {
+    font-size: inherit;
+    color: #f77171;
+}
+
+.judge {
+    font-size: inherit;
+    color: rgb(240, 167, 59);
+}

@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="container-inner position-relative theme-bg-primary rounded">
+        <div class="section-bg-container"></div>
+        <div class="container our-webcoderskull py-3">
+            <div class="row heading heading-icon">
+                <h2>Education Team</h2>
+            </div>
+            <ul class="row px-2 py-2">
+                {% for person in site.data.team %}
+                <li class="col my-1 px-2">
+                    <div class="rounded-lg cnt-block equal-hight" style="height: 320px;">
+                        <figure><img src="assets/images/team/{{ person.image }}" class="img-responsive" alt=""></figure>
+                        <h3 class="align-middle">{{ person.name }}</h3> 
+                       
+                        {% for role in person.roles %}
+                        <span class="badge badge-pill badge-primary">{{ role }}</span>
+                        {% endfor %}
+
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+</div>

@@ -1,0 +1,28 @@
+title:  What's Included
+includes:
+  - meta: Hours
+    data: 20
+
+  - meta: Exercises
+    data: 6
+
+  - meta: Assistants
+    data: 45
+
+  - meta: Students
+    data: 170+
+
+ 
+
+subtitle: Course Content
+
+lessons:
+  - title: "Part 1 title"
+    requirements: "part 1 <b>requirements</b>"
+    description: "Part 1 description"
+    body: part1_content
+
+  - title: "Part 2 title"
+    requirements: "part 2 <b>requirements</b>"
+    description: "Part 2 description"
+    body: part1_content

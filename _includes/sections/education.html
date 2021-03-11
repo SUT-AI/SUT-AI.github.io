@@ -11,7 +11,14 @@
                     <div class="rounded-lg cnt-block equal-hight" style="height: 320px;">
                         <figure><img src="assets/images/team/{{ person.image }}" class="img-responsive" alt=""></figure>
                         <h3 class="align-middle">{{ person.name }}</h3> 
-                       
+                        {% if person.social %}
+                        <ul class="follow-us clearfix">
+                            {% for social in person.social %}
+                            <li><a href="{{ social.link }}"><i class="fab fa-{{ social.name }}"
+                                        aria-hidden="true"></i></a></li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                         {% for role in person.roles %}
                         <span class="badge badge-pill badge-primary">{{ role }}</span>
                         {% endfor %}

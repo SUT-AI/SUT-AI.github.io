@@ -8,7 +8,7 @@
             <ul class="row px-2 py-2">
                 {% for person in site.data.team %}
                 <li class="col my-1 px-2">
-                    <div class="rounded-lg cnt-block equal-hight" style="height: 320px;">
+                    <div class="rounded-lg cnt-block equal-hight" style="height: 340px;">
                         <figure><img src="assets/images/team/{{ person.image }}" class="img-responsive" alt=""></figure>
                         <h3 class="align-middle">{{ person.name }}</h3> 
                         {% if person.social %}
@@ -22,7 +22,6 @@
                         {% for role in person.roles %}
                         <span class="badge badge-pill badge-primary">{{ role }}</span>
                         {% endfor %}
-
                     </div>
                 </li>
                 {% endfor %}

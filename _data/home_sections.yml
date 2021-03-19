@@ -6,6 +6,6 @@
   section: content
   navbar: true
 
-- title: Education Team
-  section: education
-  navbar: true
+# - title: Education Team
+#   section: education
+#   navbar: true

@@ -8,13 +8,21 @@
                         <span class="name">{{ site.title }}</span>
                     </a>
                 </li>
-                {% for item in site.data.home_sections %}
+                <!-- {% for item in site.data.home_sections %}
                 {% if item.navbar %}
                 <li class="nav-item"><a class="nav-link scrollto"
                         href="#section-{{ item.section }}">{{ item.title }}</a></li>
                 {% endif %}
-                {% endfor %}
+                {% endfor %} -->
+
+                <li class="nav-item"><a class="nav-link scrollto"
+                    href="#section-overview">Overview</a></li>
+                <li class="nav-item"><a class="nav-link scrollto"
+                        href="#section-content">Content</a></li>
+                <li class="nav-item"><a class="nav-link scrollto"
+                        href="/team">Education Team</a></li>
                 <li class="nav-item float-right">
+
                     <a href="{{ site.github_url }}" class="col-sm-1 nav-link float-right"><i class="fab fa-github fa-lg" style="color: #24292e;"></i></a>
                     <a href="{{ site.telegram_url }}" class="col-sm-1 nav-link float-right"><i class="fab fa-telegram fa-lg" style="color: #0088c7;"></i></a>
                     <a href="{{ site.quera_url }}" class="col-sm-1 nav-link float-right"><span class="icon-quera fa-lg" style="color: #09c;"></span></a>

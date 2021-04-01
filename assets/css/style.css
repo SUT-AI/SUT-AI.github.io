@@ -42,3 +42,12 @@
     font-size: inherit;
     color: rgb(240, 167, 59);
 }
+
+.tab-btn {
+    border-bottom: 3px solid #8b37ff !important;
+    color: #8b37ff !important;
+}
+
+.tab-btn:hover {
+    color: #2E3543 !important;
+}

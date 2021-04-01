@@ -3,26 +3,14 @@
         <div class="container-fluid justify-content-center">
             <ul id="section-nav" class="section-nav nav list-inline">
                 <li class="nav-item">
-                    <a class="nav-link scrollto active" href="#home">
+                    <a class="nav-link {% if page.title == 'Home' %} active {% endif %}" href="/">
                         <img src="/sharif1.png" class="sharif">
                         <span class="name">{{ site.title }}</span>
                     </a>
                 </li>
-                <!-- {% for item in site.data.home_sections %}
-                {% if item.navbar %}
-                <li class="nav-item"><a class="nav-link scrollto"
-                        href="#section-{{ item.section }}">{{ item.title }}</a></li>
-                {% endif %}
-                {% endfor %} -->
-
-                <li class="nav-item"><a class="nav-link scrollto"
-                    href="#section-overview">Overview</a></li>
-                <li class="nav-item"><a class="nav-link scrollto"
-                        href="#section-content">Content</a></li>
-                <li class="nav-item"><a class="nav-link"
-                        href="/team">Education Team</a></li>
+                <li class="nav-item"><a class="nav-link {% if page.title == 'TAs' %} active {% endif %}"
+                        href="/team/">Education Team</a></li>
                 <li class="nav-item float-right">
-
                     <a href="{{ site.github_url }}" class="col-sm-1 nav-link float-right"><i class="fab fa-github fa-lg" style="color: #24292e;"></i></a>
                     <a href="{{ site.telegram_url }}" class="col-sm-1 nav-link float-right"><i class="fab fa-telegram fa-lg" style="color: #0088c7;"></i></a>
                     <a href="{{ site.quera_url }}" class="col-sm-1 nav-link float-right"><span class="icon-quera fa-lg" style="color: #09c;"></span></a>

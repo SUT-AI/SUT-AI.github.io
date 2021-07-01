@@ -3,14 +3,15 @@
         <div class="section-bg-container"></div>
         <div class="container our-webcoderskull py-3">
             <div class="row heading heading-icon">
-                <h2>Education Team</h2>
+                <h2>{{ site.data.team.title }}</h2>
             </div>
             <ul class="row px-2 py-2">
-                {% for person in site.data.team %}
+                {% for person in site.data.team.members %}
                 <li class="col my-1 px-2">
                     <div class="rounded-lg cnt-block equal-hight" style="height: 340px;">
-                        <figure><img src="/assets/images/team/{{ person.image }}" class="img-responsive" alt=""></figure>
-                        <h3 class="align-middle">{{ person.name }}</h3> 
+                        <figure><img src="/assets/images/team/{{ person.image }}" class="img-responsive" alt="">
+                        </figure>
+                        <h3 class="align-middle">{{ person.name }}</h3>
                         {% if person.social %}
                         <ul class="follow-us clearfix">
                             {% for social in person.social %}

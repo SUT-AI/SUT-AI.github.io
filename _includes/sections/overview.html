@@ -1,19 +1,27 @@
 <div class="pt-md-4 pt-lg-5">
-    <div class="container py-5 theme-bg-light rounded">
+    <div class="container py-5 theme-bg-light rounded"
+        style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+        <img src="/assets/images/Rohban.jpeg" style="height:300px; width:auto;">
         <div class="section-col-max mx-auto">
             <h3 class="section-title mb-4">{{ site.data.overview.title }}</h3>
             <p class="mb-4" style="text-align: justify;">
                 {{ site.data.overview.content }}
             </p>
             <div class="text-left mb-3">
-                <ul class="column-list list-unstyled mx-auto d-inline-block">
-                    {% for item in site.data.overview.items %}
-                    <li>
-                        <i class="theme-check-icon fas fa-check mr-2"></i>
-                        {{ item }}
-                    </li>
+                <p style="text-align: justify;">
+                    {{ site.data.overview.biography }}
+                </p>
+            </div>
+            <div class="mb-3">
+                {% if site.data.overview.social %}
+                <ul class="clearfix d-flex row">
+                    {% for social in site.data.overview.social %}
+                    <li><a href="{{ social.link }}" class="col-sm-1 nav-link float-right"><i
+                                class="fab fa-{{ social.name }}" aria-hidden="true"></i></a></li>
+
                     {% endfor %}
                 </ul>
+                {% endif %}
             </div>
         </div>
         <!--//section-col-max-->

@@ -1,319 +1,320 @@
-title: 99-00 TA Team
+teams:
+  - title: 99-00 TA Team
 
-members:
-  - name: Vahid Zehtab
-    roles:
-      - Head TA
-    image: VahidZehtab.jpg
-    social:
-      - name: github
-        link: https://github.com/Vahidzee/
-      - name: linkedin
-        link: https://www.linkedin.com/in/Vahidzee/
-      - name: mail
-        link: vahid98zee@gmail.com
+    members:
+      - name: Vahid Zehtab
+        roles:
+          - Head TA
+        image: VahidZehtab.jpg
+        social:
+          - name: github
+            link: https://github.com/Vahidzee/
+          - name: linkedin
+            link: https://www.linkedin.com/in/Vahidzee/
+          - name: voicemail
+            link: vahid98zee@gmail.com
 
-  - name: Parham Saremi
-    roles:
-      - TA
-    image: ParhamSaremi.jpeg
-    social:
-      - name: github
-        link: https://github.com/parhamsaremi/
-      - name: linkedin
-        link: https://www.linkedin.com/in/parhamsaremi/
-      - name: mail
-        link: pa.sa.13792000@gmail.com
+      - name: Parham Saremi
+        roles:
+          - TA
+        image: ParhamSaremi.jpeg
+        social:
+          - name: github
+            link: https://github.com/parhamsaremi/
+          - name: linkedin
+            link: https://www.linkedin.com/in/parhamsaremi/
+          - name: mail
+            link: pa.sa.13792000@gmail.com
 
-  - name: Amir Hossein Ameli
-    roles:
-      -
-    image: AmirHosseinAmeli.jpg
-    social:
-      - name: github
-        link: https://github.com/AmirHosseinAmeli/
-      - name: linkedin
-        link: https://www.linkedin.com/in/amirhosseinameli/
-      - name: mail
-        link: amirahosseinameli@gmail.com
+      - name: Amir Hossein Ameli
+        roles:
+          -
+        image: AmirHosseinAmeli.jpg
+        social:
+          - name: github
+            link: https://github.com/AmirHosseinAmeli/
+          - name: linkedin
+            link: https://www.linkedin.com/in/amirhosseinameli/
+          - name: mail
+            link: amirahosseinameli@gmail.com
 
-  - name: Sina Nadi
-    roles:
-      -
-    image: SinaNadi.jpg
+      - name: Sina Nadi
+        roles:
+          -
+        image: SinaNadi.jpg
 
-  - name: Sepehr Ashrafzadeh
-    roles:
-      -
-    image: SepehrAshrafzadeh.png
-    social:
-      - name: mail
-        link: sepehrashs@gmail.com
+      - name: Sepehr Ashrafzadeh
+        roles:
+          -
+        image: SepehrAshrafzadeh.png
+        social:
+          - name: mail
+            link: sepehrashs@gmail.com
 
-  - name: Mahdi Erfanian
-    roles:
-      -
-    image: MahdiErfanian.jpg
-    social:
-      - name: github
-        link: https://github.com/merfanian/
-      - name: linkedin
-        link: https://www.linkedin.com/in/merfanian/
-      - name: mail
-        link: erfanianmahdi00@gmail.com
+      - name: Mahdi Erfanian
+        roles:
+          -
+        image: MahdiErfanian.jpg
+        social:
+          - name: github
+            link: https://github.com/merfanian/
+          - name: linkedin
+            link: https://www.linkedin.com/in/merfanian/
+          - name: mail
+            link: erfanianmahdi00@gmail.com
 
-  - name: Parsa Eskandar
-    roles:
-      -
-    image: ParsaEskandar.jpg
-    social:
-      - name: github
-        link: https://github.com/Parsaeskandar/
-      - name: mail
-        link: parsa.eskandar@gmail.com
+      - name: Parsa Eskandar
+        roles:
+          -
+        image: ParsaEskandar.jpg
+        social:
+          - name: github
+            link: https://github.com/Parsaeskandar/
+          - name: mail
+            link: parsa.eskandar@gmail.com
 
-  - name: Nima Fathi
-    roles:
-      -
-    image: NimaFathi.jpg
-    social:
-      - name: github
-        link: https://github.com/NimaFathi/
-      - name: linkedin
-        link: https://www.linkedin.com/in/nimafathi/
-      - name: mail
-        link: nima0fathi@gmail.com
+      - name: Nima Fathi
+        roles:
+          -
+        image: NimaFathi.jpg
+        social:
+          - name: github
+            link: https://github.com/NimaFathi/
+          - name: linkedin
+            link: https://www.linkedin.com/in/nimafathi/
+          - name: mail
+            link: nima0fathi@gmail.com
 
-  - name: Fereshteh Forghani
-    roles:
-      -
-    image: FereshtehForghani.jpeg
-    social:
-      - name: mail
-        link: fereshteh.forghani2012@gmail.com
+      - name: Fereshteh Forghani
+        roles:
+          -
+        image: FereshtehForghani.jpeg
+        social:
+          - name: mail
+            link: fereshteh.forghani2012@gmail.com
 
-  - name: Ali Ghorbanpour
-    roles:
-      -
-    image: AliGhorbanpour.jpg
-    social:
-      - name: mail
-        link: Aliiiqbp@gmail.com
+      - name: Ali Ghorbanpour
+        roles:
+          -
+        image: AliGhorbanpour.jpg
+        social:
+          - name: mail
+            link: Aliiiqbp@gmail.com
 
-  - name: Ali J. Alaee
-    roles:
-      -
-    image: AliAlaee.jpg
-    social:
-      - name: github
-        link: https://github.com/aliash98/
-      - name: mail
-        link: alialaee98@gmail.com
+      - name: Ali J. Alaee
+        roles:
+          -
+        image: AliAlaee.jpg
+        social:
+          - name: github
+            link: https://github.com/aliash98/
+          - name: mail
+            link: alialaee98@gmail.com
 
-  - name: Nima Jamali
-    roles:
-      -
-    image: NimaJamali.jpg
-    social:
-      - name: github
-        link: https://github.com/nimajam41/
-      - name: mail
-        link: nimxj4141@gmail.com
+      - name: Nima Jamali
+        roles:
+          -
+        image: NimaJamali.jpg
+        social:
+          - name: github
+            link: https://github.com/nimajam41/
+          - name: mail
+            link: nimxj4141@gmail.com
 
-  - name: Mohsen Larni
-    roles:
-      -
-    image: MohsenLarni.jpg
-    social:
-      - name: github
-        link: https://github.com/ashkanlarni/
-      - name: mail
-        link: ash.larni@gmail.com
+      - name: Mohsen Larni
+        roles:
+          -
+        image: MohsenLarni.jpg
+        social:
+          - name: github
+            link: https://github.com/ashkanlarni/
+          - name: mail
+            link: ash.larni@gmail.com
 
-  - name: Mehrnaz Mofakhami
-    roles:
-      -
-    image: MehrnazMofakhami.jpg
-    social:
-      - name: github
-        link: https://github.com/mhrnz/
-      - name: linkedin
-        link: https://www.linkedin.com/in/mehrnazmofakhami98/
-      - name: mail
-        link: m.mofakhami.77@gmail.com
+      - name: Mehrnaz Mofakhami
+        roles:
+          -
+        image: MehrnazMofakhami.jpg
+        social:
+          - name: github
+            link: https://github.com/mhrnz/
+          - name: linkedin
+            link: https://www.linkedin.com/in/mehrnazmofakhami98/
+          - name: mail
+            link: m.mofakhami.77@gmail.com
 
-  - name: Armin Moradi
-    roles:
-      -
-    image: ArminMoradi.jpeg
-    social:
-      - name: linkedin
-        link: https://www.linkedin.com/in/arminmoradi9/
-      - name: mail
-        link: arminmoradi785@gmail.com
+      - name: Armin Moradi
+        roles:
+          -
+        image: ArminMoradi.jpeg
+        social:
+          - name: linkedin
+            link: https://www.linkedin.com/in/arminmoradi9/
+          - name: mail
+            link: arminmoradi785@gmail.com
 
-  - name: Amin Ravanbakhsh
-    roles:
-      -
-    image: AminRavanbakhsh.jpg
-    social:
-      - name: mail
-        link: amin.ravanbakhsh.1999@gmail.com
+      - name: Amin Ravanbakhsh
+        roles:
+          -
+        image: AminRavanbakhsh.jpg
+        social:
+          - name: mail
+            link: amin.ravanbakhsh.1999@gmail.com
 
-  - name: Zeinab Sadat Saghi
-    roles:
-      -
-    image: ZeinabSadatSaghi.jpg
-    social:
-      - name: github
-        link: https://github.com/atenasadat/
-      - name: linkedin
-        link: https://www.linkedin.com/in/atena-saghi/
-      - name: mail
-        link: atenasaghi@ce.sharif.edu
+      - name: Zeinab Sadat Saghi
+        roles:
+          -
+        image: ZeinabSadatSaghi.jpg
+        social:
+          - name: github
+            link: https://github.com/atenasadat/
+          - name: linkedin
+            link: https://www.linkedin.com/in/atena-saghi/
+          - name: mail
+            link: atenasaghi@ce.sharif.edu
 
-  - name: Kourosh Shariat
-    roles:
-      -
-    image: KouroshShariat.jpeg
-    social:
-      - name: github
-        link: https://github.com/cyrus80/
-      - name: mail
-        link: shariat.kourosh@gmail.com
+      - name: Kourosh Shariat
+        roles:
+          -
+        image: KouroshShariat.jpeg
+        social:
+          - name: github
+            link: https://github.com/cyrus80/
+          - name: mail
+            link: shariat.kourosh@gmail.com
 
-  - name: Alireza Tavakkoli
-    roles:
-      -
-    image: AlirezaTavakkoli.jpg
-    social:
-      - name: mail
-        link: alirezatavakkoli@ymail.com
+      - name: Alireza Tavakkoli
+        roles:
+          -
+        image: AlirezaTavakkoli.jpg
+        social:
+          - name: mail
+            link: alirezatavakkoli@ymail.com
 
-  - name: Soroush Vafaie Tabar
-    roles:
-      -
-    image: SoroushVafaieTabar.jpg
-    social:
-      - name: github
-        link: https://github.com/Svafaiet/
-      - name: linkedin
-        link: https://www.linkedin.com/in/soroush-vafaie-tabar-5248a5159/
-      - name: mail
-        link: svafaiet@gmail.com
+      - name: Soroush Vafaie Tabar
+        roles:
+          -
+        image: SoroushVafaieTabar.jpg
+        social:
+          - name: github
+            link: https://github.com/Svafaiet/
+          - name: linkedin
+            link: https://www.linkedin.com/in/soroush-vafaie-tabar-5248a5159/
+          - name: mail
+            link: svafaiet@gmail.com
 
-  - name: Sepehr Amini Afshar
-    roles:
-      -
-    image: SepehrAminiAfshar.jpg
-    social:
-      - name: linkedin
-        link: https://www.linkedin.com/in/sepehr-amini-afshar-2201381b8/
-      - name: mail
-        link: sepehramini83@gmail.com
+      - name: Sepehr Amini Afshar
+        roles:
+          -
+        image: SepehrAminiAfshar.jpg
+        social:
+          - name: linkedin
+            link: https://www.linkedin.com/in/sepehr-amini-afshar-2201381b8/
+          - name: mail
+            link: sepehramini83@gmail.com
 
-  - name: Mohammad Mahdi Asmae
-    roles:
-      -
-    image: MohammadMahdiAsmae.jpg
-    social:
-      - name: github
-        link: https://github.com/Masmae/
-      - name: mail
-        link: m.mahdi.asmae@gmail.com
+      - name: Mohammad Mahdi Asmae
+        roles:
+          -
+        image: MohammadMahdiAsmae.jpg
+        social:
+          - name: github
+            link: https://github.com/Masmae/
+          - name: mail
+            link: m.mahdi.asmae@gmail.com
 
-  - name: Haniyeh Ehsani
-    roles:
-      -
-    image: HaniyehEhsani.jpg
-    social:
-      - name: github
-        link: https://github.com/aheldis/
-      - name: linkedin
-        link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
-      - name: mail
-        link: ehsanihaniyeh@gmail.com
+      - name: Haniyeh Ehsani
+        roles:
+          -
+        image: HaniyehEhsani.jpg
+        social:
+          - name: github
+            link: https://github.com/aheldis/
+          - name: linkedin
+            link: https://www.linkedin.com/in/haniyeh-ehsani-06ab66198/
+          - name: mail
+            link: ehsanihaniyeh@gmail.com
 
-  - name: Amirmahdi Hosseinabadi
-    roles:
-      -
-    image: AmirmahdiHosseinabadi.jpg
-    social:
-      - name: github
-        link: https://github.com/mhrnz/
-      - name: linkedin
-        link: https://www.linkedin.com/in/mamirmahdi-hosseinabadiehrnazmofakhami98/
-      - name: mail
-        link: hosseinabadi26@gmail.com
+      - name: Amirmahdi Hosseinabadi
+        roles:
+          -
+        image: AmirmahdiHosseinabadi.jpg
+        social:
+          - name: github
+            link: https://github.com/mhrnz/
+          - name: linkedin
+            link: https://www.linkedin.com/in/mamirmahdi-hosseinabadiehrnazmofakhami98/
+          - name: mail
+            link: hosseinabadi26@gmail.com
 
-  - name: Negin Jafari
-    roles:
-      -
-    image: NeginJafari.jpg
-    social:
-      - name: github
-        link: https://github.com/neginjafariii/
-      - name: linkedin
-        link: https://www.linkedin.com/in/neginjafariii/
-      - name: mail
-        link: neginjfi79@gmail.com
+      - name: Negin Jafari
+        roles:
+          -
+        image: NeginJafari.jpg
+        social:
+          - name: github
+            link: https://github.com/neginjafariii/
+          - name: linkedin
+            link: https://www.linkedin.com/in/neginjafariii/
+          - name: mail
+            link: neginjfi79@gmail.com
 
-  - name: Mohammad Mahdi Jarrahi
-    roles:
-      -
-    image: MohammadMahdiJarrahi.png
-    social:
-      - name: github
-        link: https://github.com/jarrahi-mm/
-      - name: linkedin
-        link: https://www.linkedin.com/in/mohammad-mahdi-jarrahi-34a552178/
-      - name: mail
-        link: jarrahi.mm@gmail.com
+      - name: Mohammad Mahdi Jarrahi
+        roles:
+          -
+        image: MohammadMahdiJarrahi.png
+        social:
+          - name: github
+            link: https://github.com/jarrahi-mm/
+          - name: linkedin
+            link: https://www.linkedin.com/in/mohammad-mahdi-jarrahi-34a552178/
+          - name: mail
+            link: jarrahi.mm@gmail.com
 
-  - name: Hamidreza Kamkari
-    roles:
-      -
-    image: HamidrezaKamkari.jpg
-    social:
-      - name: github
-        link: https://github.com/hrzuser/
-      - name: linkedin
-        link: https://www.linkedin.com/in/hamidreza-kamkari/
-      - name: mail
-        link: hamidrezakamkari@gmail.com
+      - name: Hamidreza Kamkari
+        roles:
+          -
+        image: HamidrezaKamkari.jpg
+        social:
+          - name: github
+            link: https://github.com/hrzuser/
+          - name: linkedin
+            link: https://www.linkedin.com/in/hamidreza-kamkari/
+          - name: mail
+            link: hamidrezakamkari@gmail.com
 
-  - name: Pouya Moeini
-    roles:
-      -
-    image: PouyaMoeini.png
-    social:
-      - name: github
-        link: https://github.com/pooyamoini/
-      - name: linkedin
-        link: https://www.linkedin.com/in/pouya-moeini-472b29177/
-      - name: mail
-        link: pmoeini@ce.sharif.edu
+      - name: Pouya Moeini
+        roles:
+          -
+        image: PouyaMoeini.png
+        social:
+          - name: github
+            link: https://github.com/pooyamoini/
+          - name: linkedin
+            link: https://www.linkedin.com/in/pouya-moeini-472b29177/
+          - name: mail
+            link: pmoeini@ce.sharif.edu
 
-  - name: Amirmahdi Namjoo
-    roles:
-      -
-    image: AmirmahdiNamjoo.jpg
-    social:
-      - name: github
-        link: https://github.com/titansarus/
-      - name: linkedin
-        link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
-      - name: mail
-        link: amirm137878@gmail.com
+      - name: Amirmahdi Namjoo
+        roles:
+          -
+        image: AmirmahdiNamjoo.jpg
+        social:
+          - name: github
+            link: https://github.com/titansarus/
+          - name: linkedin
+            link: https://www.linkedin.com/in/amirmahdi-namjoo-23b4b9192/
+          - name: mail
+            link: amirm137878@gmail.com
 
-  - name: Alireza Shateri
-    roles:
-      -
-    image: AlirezaShateri.jpg
-    social:
-      - name: github
-        link: https://github.com/ShAlireza
-      - name: linkedin
-        link: https://www.linkedin.com/in/alireza-shateri-a91093176/
-      - name: mail
-        link: alirezashateri7@gmail.com
+      - name: Alireza Shateri
+        roles:
+          -
+        image: AlirezaShateri.jpg
+        social:
+          - name: github
+            link: https://github.com/ShAlireza
+          - name: linkedin
+            link: https://www.linkedin.com/in/alireza-shateri-a91093176/
+          - name: mail
+            link: alirezashateri7@gmail.com

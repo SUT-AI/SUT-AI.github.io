@@ -44,10 +44,11 @@
 }
 
 .tab-btn {
-    border-bottom: 3px solid #8b37ff !important;
-    color: #8b37ff !important;
+    border-bottom: 4px solid #008DB8 !important;
+    color: #008DB8 !important;
 }
 
 .tab-btn:hover {
-    color: #2E3543 !important;
+    border-bottom: 4px solid #006D8F !important;
+    color: #006D8F !important;
 }
